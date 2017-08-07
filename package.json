@@ -1,0 +1,14 @@
+{
+  "name": "tic-tac-toe",
+  "version": "1.0.0",
+  "description": "A basic tic-tac-toe game",
+  "main": "index.html",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Derek Johnson",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^20.0.4"
+  }
+}
